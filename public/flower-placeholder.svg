@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900" viewBox="0 0 800 900">
+  <rect width="800" height="900" fill="#fff1f6"/>
+  <circle cx="400" cy="390" r="95" fill="#f3c7d4"/>
+  <g fill="#e99bb4">
+    <ellipse cx="400" cy="260" rx="60" ry="105"/>
+    <ellipse cx="400" cy="520" rx="60" ry="105"/>
+    <ellipse cx="270" cy="390" rx="105" ry="60"/>
+    <ellipse cx="530" cy="390" rx="105" ry="60"/>
+    <ellipse cx="310" cy="300" rx="58" ry="100" transform="rotate(-45 310 300)"/>
+    <ellipse cx="490" cy="480" rx="58" ry="100" transform="rotate(-45 490 480)"/>
+    <ellipse cx="490" cy="300" rx="58" ry="100" transform="rotate(45 490 300)"/>
+    <ellipse cx="310" cy="480" rx="58" ry="100" transform="rotate(45 310 480)"/>
+  </g>
+  <circle cx="400" cy="390" r="40" fill="#c9a76a"/>
+  <text x="400" y="730" text-anchor="middle" fill="#805a69" font-family="Arial,sans-serif" font-size="30">ورود الجنة</text>
+</svg>
